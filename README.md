@@ -6,7 +6,7 @@
 - **Key Areas:** Database Management, Information Security, System Development, Network Infrastructure.
 - **Goal:** To acquire a robust foundation in the principles and practices of information systems.
 
-### Online Bachelor's Degree in Software Engineering
+### Bachelor's Degree in Software Engineering
 **UNIASSELVI (Universidade Leonardo da Vinci)**
 - **Duration:** `February 2024 - 2028`
 - **Key Areas:** Software Development, Systems Analysis, Project Management.
