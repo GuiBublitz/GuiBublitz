@@ -36,6 +36,3 @@
 I am deeply immersed in mastering **PHP/Node.js** while also exploring the fascinating world of **Golang**. My journey in technology is driven by a passion for creating impactful solutions and a commitment to continuous learning.
 
 ---
-
-## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiBublitz&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300)
