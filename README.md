@@ -1,4 +1,4 @@
-<h2 align="">🛠️​🚧​ Greetings! You've entered My Tech Playground ​🚧🛠️​</h2>
+<h2 align="">🛠️​🚧​ Greetings! You've entered My Tech Playground ​🚧🛠️​</h2><img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="175">  
 <p align="">
   <i>At first glance, it may seem a little messy, well, that's it </i>
 </p>
@@ -16,7 +16,10 @@
 </p>
 
 
-## 🎓 Educational Journey
+<h2>
+  🎓 Educational Journey
+</h2>
+
 
 ### 🖥️ Bachelor's Degree in Information Systems (FURB)
 - **Duration:** `February 2024 - 2028`
