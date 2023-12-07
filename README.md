@@ -16,22 +16,11 @@
 </p>
 
 
-<h2>
-  🎓 Educational Journey
-</h2>
+## 👨‍🎓 Ongoing Studies and Specializations
 
+- **Information Systems B.S. at [@FURB](#) (Feb 2024 - 2028):** Focused on Databases, Security, System Development, and Networks.
+- **Software Engineering B.S. at [@UNIASSELVI](#) (Feb 2024 - 2028):** Concentrated on Software Development, Systems Analysis, and Project Management.
 
-### 🖥️ Bachelor's Degree in Information Systems (FURB)
-- **Duration:** `February 2024 - 2028`
-- **Key Areas:** Database Management, Information Security, System Development, Network Infrastructure.
-- **Goal:** To acquire a robust foundation in the principles and practices of information systems.
-
-### 👨‍💻 Bachelor's Degree in Software Engineering (UNIASSELVI)
-- **Duration:** `February 2024 - 2028`
-- **Key Areas:** Software Development, Systems Analysis, Project Management.
-- **Goal:** To gain a comprehensive understanding of software engineering in a dynamic online learning environment.
-
----
 
 ## 👤 About Me
 ![Guilherme Eduardo Bublitz](https://img.shields.io/static/v1?label=Overview&message=[Guilherme%20Eduardo%20Bublitz]&color=f8efd4&style=for-the-badge&logo=GitHub)
