@@ -22,7 +22,7 @@
 - **Software Engineering B.S. at [@UNIASSELVI](#) (Feb 2024 - 2028):** Concentrated on Software Development, Systems Analysis, and Project Management.
 
 
-## 👤 About Me
+## 🌐 About Me
 ![Guilherme Eduardo Bublitz](https://img.shields.io/static/v1?label=Overview&message=[Guilherme%20Eduardo%20Bublitz]&color=f8efd4&style=for-the-badge&logo=GitHub)
 
 I am deeply immersed in mastering **PHP/Node.js** while also exploring the fascinating world of **Golang**. My journey in technology is driven by a passion for creating impactful solutions and a commitment to continuous learning.
