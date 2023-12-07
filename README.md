@@ -1,6 +1,6 @@
 <h3 align="">🛠️​🚧​ Greetings! You've entered My Tech Playground ​🚧🛠️​</h3><img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="175">  
 <p align="">
-  <i>Hey, take a look at my portfolio here: <a href="https://github.com/GuiBublitz">http://localhost:8080/portfolio/notrly</a></i>
+  <i>You can take a look at my portfolio here: <a href="https://github.com/GuiBublitz">http://localhost:8080/portfolio/notrly</a></i>
 </p>
 
 <p align="">
