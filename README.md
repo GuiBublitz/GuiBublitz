@@ -24,8 +24,17 @@
 
 ---
 
+### What Am I Currently Studying?
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiBublitz&repo=StudyTracker)](https://github.com/GuiBublitz/StudyTracker)
+
+---
+
+
+
+
 ### 🌐 About Me
 ![Guilherme Eduardo Bublitz](https://img.shields.io/static/v1?label=Overview&message=[Guilherme%20Eduardo%20Bublitz]&color=f8efd4&style=for-the-badge&logo=GitHub)
 
-I am deeply immersed in mastering **PHP/Node.js** while also exploring the fascinating world of **Golang**. My journey in technology is driven by a passion for creating impactful solutions and a commitment to continuous learning.
+I am deeply immersed in mastering **Python and Node.js** while also exploring **Golang**. My journey in technology is driven by a passion for creating impactful solutions and a commitment to continuous learning!. 📚
 
